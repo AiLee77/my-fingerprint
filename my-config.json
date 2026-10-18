@@ -1,0 +1,321 @@
+{
+  "config": {
+    "action": {
+      "fastInject": true,
+      "fonts": {
+        "allowlist": [
+          "Arial",
+          "Calibri",
+          "Cambria",
+          "Candara",
+          "Comic Sans MS",
+          "Consolas",
+          "Courier New",
+          "Georgia",
+          "Impact",
+          "Lucida Console",
+          "Microsoft Sans Serif",
+          "Segoe UI",
+          "Times New Roman",
+          "Verdana"
+        ],
+        "supported": [
+          "Arial",
+          "Arial Black",
+          "Calibri",
+          "Cambria",
+          "Cambria Math",
+          "Comic Sans MS",
+          "Consolas",
+          "Courier New",
+          "Georgia",
+          "Impact",
+          "Lucida Console",
+          "Lucida Sans Unicode",
+          "Microsoft Sans Serif",
+          "MS Gothic",
+          "MS PGothic",
+          "Palatino Linotype",
+          "Segoe Print",
+          "Segoe Script",
+          "Segoe UI",
+          "Segoe UI Light",
+          "Segoe UI Semibold",
+          "Segoe UI Symbol",
+          "Tahoma",
+          "Times New Roman",
+          "Trebuchet MS",
+          "Verdana",
+          "Wingdings",
+          "Noto Sans SC",
+          "Noto Serif SC",
+          "Arial Bold",
+          "Arial Bold Italic",
+          "Arial Italic",
+          "Bahnschrift",
+          "Bahnschrift Light",
+          "Bahnschrift SemiBold",
+          "Bahnschrift SemiLight",
+          "Calibri Bold",
+          "Calibri Bold Italic",
+          "Calibri Italic",
+          "Calibri Light",
+          "Calibri Light Italic",
+          "Cambria Bold",
+          "Cambria Bold Italic",
+          "Cambria Italic",
+          "Candara",
+          "Candara Bold",
+          "Candara Bold Italic",
+          "Candara Italic",
+          "Candara Light",
+          "Candara Light Italic",
+          "Comic Sans MS Bold",
+          "Comic Sans MS Bold Italic",
+          "Comic Sans MS Italic",
+          "Consolas Bold",
+          "Consolas Bold Italic",
+          "Consolas Italic",
+          "Constantia",
+          "Constantia Bold",
+          "Constantia Bold Italic",
+          "Constantia Italic",
+          "Corbel",
+          "Corbel Bold",
+          "Corbel Bold Italic",
+          "Corbel Italic",
+          "Corbel Light",
+          "Corbel Light Italic",
+          "Courier New Bold",
+          "Courier New Bold Italic",
+          "Courier New Italic",
+          "DengXian",
+          "DengXian Bold",
+          "DengXian Light",
+          "Ebrima",
+          "Ebrima Bold",
+          "FangSong",
+          "Franklin Gothic Medium",
+          "Franklin Gothic Medium Italic",
+          "Gabriola",
+          "Gadugi",
+          "Gadugi Bold",
+          "Georgia Bold",
+          "Georgia Bold Italic",
+          "Georgia Italic",
+          "Ink Free",
+          "Javanese Text",
+          "KaiTi",
+          "Leelawadee UI",
+          "Leelawadee UI Bold",
+          "Leelawadee UI Semilight",
+          "MS UI Gothic",
+          "MV Boli",
+          "Malgun Gothic",
+          "Malgun Gothic Bold",
+          "Malgun Gothic Semilight",
+          "Marlett",
+          "Microsoft Himalaya",
+          "Microsoft JhengHei",
+          "Microsoft JhengHei Bold",
+          "Microsoft JhengHei Light",
+          "Microsoft JhengHei UI",
+          "Microsoft JhengHei UI Bold",
+          "Microsoft JhengHei UI Light",
+          "Microsoft New Tai Lue",
+          "Microsoft New Tai Lue Bold",
+          "Microsoft PhagsPa",
+          "Microsoft PhagsPa Bold",
+          "Microsoft Tai Le",
+          "Microsoft Tai Le Bold",
+          "Microsoft YaHei",
+          "Microsoft YaHei Bold",
+          "Microsoft YaHei Light",
+          "Microsoft YaHei UI",
+          "Microsoft YaHei UI Bold",
+          "Microsoft YaHei UI Light",
+          "Microsoft Yi Baiti",
+          "MingLiU-ExtB",
+          "MingLiU_HKSCS-ExtB",
+          "Mongolian Baiti",
+          "Myanmar Text",
+          "Myanmar Text Bold",
+          "NSimSun",
+          "Nirmala UI",
+          "Nirmala UI Bold",
+          "Nirmala UI Semilight",
+          "PMingLiU-ExtB",
+          "Palatino Linotype Bold",
+          "Palatino Linotype Bold Italic",
+          "Palatino Linotype Italic",
+          "Segoe MDL2 Assets",
+          "Segoe Print Bold",
+          "Segoe Script Bold",
+          "Segoe UI Black",
+          "Segoe UI Black Italic",
+          "Segoe UI Bold",
+          "Segoe UI Bold Italic",
+          "Segoe UI Emoji",
+          "Segoe UI Historic",
+          "Segoe UI Italic",
+          "Segoe UI Light Italic",
+          "Segoe UI Semibold Italic",
+          "Segoe UI Semilight",
+          "Segoe UI Semilight Italic",
+          "SimHei",
+          "SimSun",
+          "SimSun-ExtB",
+          "Sitka Banner",
+          "Sitka Banner Bold",
+          "Sitka Banner Bold Italic",
+          "Sitka Banner Italic",
+          "Sitka Display",
+          "Sitka Display Bold",
+          "Sitka Display Bold Italic",
+          "Sitka Display Italic",
+          "Sitka Heading",
+          "Sitka Heading Bold",
+          "Sitka Heading Bold Italic",
+          "Sitka Heading Italic",
+          "Sitka Small",
+          "Sitka Small Bold",
+          "Sitka Small Bold Italic",
+          "Sitka Small Italic",
+          "Sitka Subheading",
+          "Sitka Subheading Bold",
+          "Sitka Subheading Bold Italic",
+          "Sitka Subheading Italic",
+          "Sitka Text",
+          "Sitka Text Bold",
+          "Sitka Text Bold Italic",
+          "Sitka Text Italic",
+          "Sylfaen",
+          "Symbol",
+          "Tahoma Bold",
+          "Tahoma Negreta",
+          "Times New Roman Bold",
+          "Times New Roman Bold Italic",
+          "Times New Roman Italic",
+          "Trebuchet MS Bold",
+          "Trebuchet MS Bold Italic",
+          "Trebuchet MS Italic",
+          "Verdana Bold",
+          "Verdana Bold Italic",
+          "Verdana Italic",
+          "Webdings",
+          "Yu Gothic Bold",
+          "Yu Gothic Light",
+          "Yu Gothic Medium",
+          "Yu Gothic Regular",
+          "Yu Gothic UI Bold",
+          "Yu Gothic UI Light",
+          "Yu Gothic UI Regular",
+          "Yu Gothic UI Semibold",
+          "Yu Gothic UI Semilight",
+          "宋体",
+          "微软雅黑",
+          "新宋体",
+          "楷体",
+          "ＭＳ ゴシック",
+          "ＭＳ Ｐゴシック"
+        ]
+      },
+      "ipInfo": {
+        "enable": true,
+        "enableLanguages": true,
+        "enableTimezone": true,
+        "intervalMin": 1
+      }
+    },
+    "enable": true,
+    "fp": {
+      "navigator": {
+        "clientHints": {
+          "type": 0
+        },
+        "hardwareConcurrency": {
+          "type": 0
+        },
+        "languages": {
+          "tag": "ip-auto-config",
+          "type": 1,
+          "value": [
+            "en-US",
+            "en"
+          ]
+        }
+      },
+      "normal": {
+        "gpuInfo": {
+          "type": 0
+        }
+      },
+      "other": {
+        "audio": {
+          "type": 4
+        },
+        "canvas": {
+          "type": 4
+        },
+        "domRect": {
+          "type": 4
+        },
+        "font": {
+          "type": 1
+        },
+        "serviceWorker": {
+          "type": 0
+        },
+        "timezone": {
+          "tag": "ip-auto-config",
+          "type": 1,
+          "value": {
+            "locales": [
+              "en-US",
+              "en"
+            ],
+            "zone": "America/Los_Angeles"
+          }
+        },
+        "webgl": {
+          "type": 4
+        },
+        "webgpu": {
+          "type": 4
+        },
+        "webrtc": {
+          "type": 6
+        }
+      },
+      "screen": {
+        "depth": {
+          "type": 0
+        },
+        "size": {
+          "type": 0
+        }
+      }
+    },
+    "input": {
+      "globalSeed": "2416882321719296"
+    },
+    "prefs": {
+      "language": "zh-CN",
+      "logLevel": "NONE",
+      "theme": "system"
+    },
+    "seed": {
+      "browser": 8411078669107199,
+      "global": 2416882321719296
+    },
+    "subscribe": {
+      "url": "https://raw.githubusercontent.com/AiLee77/my-fingerprint/main/my-config.json"
+    }
+  },
+  "policies": {
+    "blacklist": [],
+    "isBlacklistMode": false,
+    "whitelist": []
+  },
+  "version": "2.9.3"
+}
